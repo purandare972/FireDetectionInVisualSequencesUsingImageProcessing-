@@ -1,1 +1,3 @@
-# FireDetectionInVisualSequencesUsingImageProcessing-
+# FireDetectionInVisualSequencesUsingImageProcessing
+An overview of the project is developing a system that detects the early stages of fire by detecting the presence of smoke through image frames by comparing it to the previous frame, followed by flame detection based on the color variation, growth, and other characteristics. The images captured via webcams will be enhanced and color processed. 
+The developed system has a unit that alerts any on-premise fire. As soon as the fire detector detects any fire-related event, the occupants are notified with email and alarm. This system has fewer hardware components and interfacing hence it reduces the cost as well. 
